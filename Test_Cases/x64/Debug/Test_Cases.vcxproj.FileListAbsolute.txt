@@ -1,0 +1,4 @@
+G:\Data_Assignment_1\Test_Cases\x64\Debug\Test_Cases.vcxproj.CopyComplete
+G:\Data_Assignment_1\Test_Cases\x64\Debug\Test_Cases.exe
+G:\Data_Assignment_1\Test_Cases\x64\Debug\gtest.pdb
+G:\Data_Assignment_1\Test_Cases\x64\Debug\gtest_main.pdb
